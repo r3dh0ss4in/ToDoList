@@ -126,6 +126,7 @@ class ToDoList {
 					throw new ArgumentNullException("Please Enter a Number");
 				}
 				int n=Convert.ToInt32(input);
+				obj.Create(timeNow);
 				if(n==0) {
 					Console.WriteLine("---ToDoList---");
 					Console.WriteLine(now);
