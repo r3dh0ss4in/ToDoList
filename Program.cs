@@ -205,23 +205,5 @@ class ToDoList {
 				Console.WriteLine($"Error: {e.Message}");
 			}
 		}
-		// lst.Add((2026,09,04,"CP"));
-		// lst.Add((2026,05,10,"Workout"));
-		// lst.Add((2027,02,04,"Football"));
-		// lst.Add((2026,05,01,"Coding"));
-		// var todo=new List<ToDoItem>();
-		// foreach(var u in lst) {
-		// 	string date="";
-		// 	date+=u.day;
-		// 	date+="-";
-		// 	date+=u.month;
-		// 	date+="-";
-		// 	date+=u.year;
-		// 	todo.Add(new ToDoItem { Name = u.name, Date = date });
-		// }
-		// int id=1;
-		// foreach(var u in todo) {
-		// 	Console.WriteLine($"{id++}: {u.Name} : {u.Date}");
-		// }
 	}
 }
