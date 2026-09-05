@@ -1,0 +1,14 @@
+/home/farena/Documents/Projects/ToDoList/bin/Debug/net8.0/ToDoList
+/home/farena/Documents/Projects/ToDoList/bin/Debug/net8.0/ToDoList.deps.json
+/home/farena/Documents/Projects/ToDoList/bin/Debug/net8.0/ToDoList.runtimeconfig.json
+/home/farena/Documents/Projects/ToDoList/bin/Debug/net8.0/ToDoList.dll
+/home/farena/Documents/Projects/ToDoList/bin/Debug/net8.0/ToDoList.pdb
+/home/farena/Documents/Projects/ToDoList/obj/Debug/net8.0/ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+/home/farena/Documents/Projects/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfoInputs.cache
+/home/farena/Documents/Projects/ToDoList/obj/Debug/net8.0/ToDoList.AssemblyInfo.cs
+/home/farena/Documents/Projects/ToDoList/obj/Debug/net8.0/ToDoList.csproj.CoreCompileInputs.cache
+/home/farena/Documents/Projects/ToDoList/obj/Debug/net8.0/ToDoList.dll
+/home/farena/Documents/Projects/ToDoList/obj/Debug/net8.0/refint/ToDoList.dll
+/home/farena/Documents/Projects/ToDoList/obj/Debug/net8.0/ToDoList.pdb
+/home/farena/Documents/Projects/ToDoList/obj/Debug/net8.0/ToDoList.genruntimeconfig.cache
+/home/farena/Documents/Projects/ToDoList/obj/Debug/net8.0/ref/ToDoList.dll
